@@ -1,16 +1,26 @@
-# Simple Age Verifier
+# 🧠 Simple Age Verifier
 
-A lightweight WordPress plugin that displays an age verification popup before entering a website.
+A lightweight WordPress plugin that displays an age verification popup before users can access your website content.
 
-## Features
-- Clean popup design
-- Cookie-based verification (remembers user for 30 days)
-- Fully responsive
-- Easy to customize
+## ✨ Features
+- Simple and lightweight
+- Fully customizable popup text, colors, and size
+- 30-day cookie-based verification
+- Mobile-friendly design
+- Easy to configure from WordPress admin
 
-## Installation
+## ⚙️ Installation
 1. Upload the `simple-age-verifier` folder to `/wp-content/plugins/`
-2. Activate the plugin from the WordPress “Plugins” page.
+2. Activate the plugin from **Plugins → Installed Plugins**
+3. Go to **Settings → Age Verifier** and customize the popup
 
-## Author
-Developed by Afsar Al Mahmud
+## 🧩 Usage
+The popup automatically appears on the front-end if enabled from settings.
+Users must confirm their age to enter the site.
+
+## 🪪 License
+This plugin is licensed under the GPLv2 or later.
+
+## 👨‍💻 Author
+**Afsar Al Mahmud**
+[GitHub](https://github.com/yourusername) | [Website](https://skyseekers.ae)
