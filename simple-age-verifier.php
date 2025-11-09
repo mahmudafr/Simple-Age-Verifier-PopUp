@@ -4,6 +4,7 @@
  * Description: Final v3.0 - Popup with On/Off toggle, color controls, text fields, and responsive width/height sliders in %.
  * Version: 3.0
  * Author: Afsar Al Mahmud
+ * Author URI: https://afsarmahmud.com/
  */
 
 if (!defined('ABSPATH')) exit;
